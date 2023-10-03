@@ -9,7 +9,7 @@ Sempre fui apaixonado pela ciência e em aprender como o mundo ao meu redor func
 <div align="center">
   <a href="https://github.com/TigoNunes" target="_blank">
   <img height = "180" src ="https://github-readme-stats.vercel.app/api?username=TigoNunes&show_icons=true&theme=radical&include_all_comits=true&rank_icon=github"/>
-  <img height = "180" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TigoNunes&layout=donut&langs_count=5&theme=radical"/>
+  <img height = "180" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=TigoNunes&layout=donut&langs_count=5&theme=radical&hide=Html"/>
 </div>
     
 ### Linguagens:    
