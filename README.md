@@ -21,7 +21,9 @@ Sempre fui apaixonado pela ciência e em aprender como o mundo ao meu redor func
   <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />  
-  <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />                
+  <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+  <img align="center" height="40" widith="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
 </div>
 
 ### Meus contatos:
